@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cc-aliyun-oss" />
+        <module name="cc-aliyun-rocketmq" />
+        <module name="cc-aliyun-sms" />
+        <module name="cc-aop" />
+        <module name="cc-common" />
+        <module name="cc-entity" />
+        <module name="cc-entity (1)" />
+        <module name="cc-enums" />
+        <module name="cc-enums (1)" />
+        <module name="cc-generalmapper" />
+        <module name="cc-generator" />
+        <module name="cc-generator (1)" />
+        <module name="cc-http" />
+        <module name="cc-mybatisplus" />
+        <module name="cc-platform (1)" />
+        <module name="cc-platform (2)" />
+        <module name="cc-redis" />
+        <module name="cc-remind-new-order" />
+        <module name="cc-rest" />
+        <module name="cc-rest-auth" />
+        <module name="cc-rest-core" />
+        <module name="cc-rest-customer (1)" />
+        <module name="cc-rest-customer (2)" />
+        <module name="cc-rest-customer-service" />
+        <module name="cc-rest-deliver (1)" />
+        <module name="cc-rest-deliver (2)" />
+        <module name="cc-rest-deliver-backend (1)" />
+        <module name="cc-rest-deliver-backend (2)" />
+        <module name="cc-rest-demo" />
+        <module name="cc-rest-distribution" />
+        <module name="cc-rest-global-backend (1)" />
+        <module name="cc-rest-global-backend (2)" />
+        <module name="cc-rest-oss" />
+        <module name="cc-rest-pay" />
+        <module name="cc-rest-push" />
+        <module name="cc-rest-rocketmq" />
+        <module name="cc-rest-search" />
+        <module name="cc-rest-seller" />
+        <module name="cc-rest-seller (1)" />
+        <module name="cc-rest-sms" />
+        <module name="cc-rocketmq-consumer" />
+        <module name="cc-rsync-elasticsearch" />
+        <module name="cc-scheduler" />
+        <module name="cc-tools" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cc-aliyun-oss" target="1.8" />
+      <module name="cc-aliyun-rocketmq" target="1.8" />
+      <module name="cc-aliyun-sms" target="1.8" />
+      <module name="cc-aop" target="1.8" />
+      <module name="cc-common" target="1.8" />
+      <module name="cc-entity" target="1.8" />
+      <module name="cc-entity (1)" target="1.8" />
+      <module name="cc-enums" target="1.8" />
+      <module name="cc-enums (1)" target="1.8" />
+      <module name="cc-framework" target="1.8" />
+      <module name="cc-generalmapper" target="1.8" />
+      <module name="cc-generator" target="1.8" />
+      <module name="cc-generator (1)" target="1.8" />
+      <module name="cc-http" target="1.8" />
+      <module name="cc-mybatisplus" target="1.8" />
+      <module name="cc-parent" target="1.8" />
+      <module name="cc-parent (1)" target="1.8" />
+      <module name="cc-platform (1)" target="1.8" />
+      <module name="cc-platform (2)" target="1.8" />
+      <module name="cc-redis" target="1.8" />
+      <module name="cc-remind-new-order" target="1.8" />
+      <module name="cc-rest" target="1.8" />
+      <module name="cc-rest-auth" target="1.8" />
+      <module name="cc-rest-core" target="1.8" />
+      <module name="cc-rest-customer (1)" target="1.8" />
+      <module name="cc-rest-customer (2)" target="1.8" />
+      <module name="cc-rest-customer-service" target="1.8" />
+      <module name="cc-rest-deliver (1)" target="1.8" />
+      <module name="cc-rest-deliver (2)" target="1.8" />
+      <module name="cc-rest-deliver-backend (1)" target="1.8" />
+      <module name="cc-rest-deliver-backend (2)" target="1.8" />
+      <module name="cc-rest-demo" target="1.8" />
+      <module name="cc-rest-distribution" target="1.8" />
+      <module name="cc-rest-global-backend (1)" target="1.8" />
+      <module name="cc-rest-global-backend (2)" target="1.8" />
+      <module name="cc-rest-oss" target="1.8" />
+      <module name="cc-rest-pay" target="1.8" />
+      <module name="cc-rest-push" target="1.8" />
+      <module name="cc-rest-rocketmq" target="1.8" />
+      <module name="cc-rest-search" target="1.8" />
+      <module name="cc-rest-seller" target="1.8" />
+      <module name="cc-rest-seller (1)" target="1.8" />
+      <module name="cc-rest-sms" target="1.8" />
+      <module name="cc-rocketmq-consumer" target="1.8" />
+      <module name="cc-root" target="1.8" />
+      <module name="cc-rsync-elasticsearch" target="1.8" />
+      <module name="cc-scheduler" target="1.8" />
+      <module name="cc-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

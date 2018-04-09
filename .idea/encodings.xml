@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-enums" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-generalmapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-global-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-seller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-platform-bak/cc-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-rest-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-rest-distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-rest-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cc-rsync-elasticsearch" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

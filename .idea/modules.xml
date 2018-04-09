@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/0409.iml" filepath="$PROJECT_DIR$/.idea/0409.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-aliyun-oss/cc-aliyun-oss.iml" filepath="$PROJECT_DIR$/cc-framework/cc-aliyun-oss/cc-aliyun-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-aliyun-rocketmq/cc-aliyun-rocketmq.iml" filepath="$PROJECT_DIR$/cc-framework/cc-aliyun-rocketmq/cc-aliyun-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-aliyun-sms/cc-aliyun-sms.iml" filepath="$PROJECT_DIR$/cc-framework/cc-aliyun-sms/cc-aliyun-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-aop/cc-aop.iml" filepath="$PROJECT_DIR$/cc-framework/cc-aop/cc-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-common/cc-common.iml" filepath="$PROJECT_DIR$/cc-framework/cc-common/cc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-entity/cc-entity.iml" filepath="$PROJECT_DIR$/cc-entity/cc-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-entity/cc-entity (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-entity/cc-entity (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-enums/cc-enums.iml" filepath="$PROJECT_DIR$/cc-enums/cc-enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-enums/cc-enums (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-enums/cc-enums (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-framework.iml" filepath="$PROJECT_DIR$/cc-framework/cc-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-generalmapper/cc-generalmapper.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-generalmapper/cc-generalmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-generator/cc-generator.iml" filepath="$PROJECT_DIR$/cc-generator/cc-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-generator/cc-generator (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-generator/cc-generator (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-http/cc-http.iml" filepath="$PROJECT_DIR$/cc-framework/cc-http/cc-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-mybatisplus/cc-mybatisplus.iml" filepath="$PROJECT_DIR$/cc-framework/cc-mybatisplus/cc-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-parent/cc-parent.iml" filepath="$PROJECT_DIR$/cc-parent/cc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-parent/cc-parent (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-parent/cc-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-platform/cc-platform (1).iml" filepath="$PROJECT_DIR$/cc-framework/cc-platform/cc-platform (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform/cc-platform (2).iml" filepath="$PROJECT_DIR$/cc-platform/cc-platform (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-redis/cc-redis.iml" filepath="$PROJECT_DIR$/cc-framework/cc-redis/cc-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-backend/cc-remind-new-order.iml" filepath="$PROJECT_DIR$/cc-backend/cc-remind-new-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest/cc-rest.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest/cc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-auth/cc-rest-auth.iml" filepath="$PROJECT_DIR$/cc-rest-auth/cc-rest-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-framework/cc-rest-core/cc-rest-core.iml" filepath="$PROJECT_DIR$/cc-framework/cc-rest-core/cc-rest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-customer/cc-rest-customer (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-customer/cc-rest-customer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-customer/cc-rest-customer (2).iml" filepath="$PROJECT_DIR$/cc-rest-customer/cc-rest-customer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-customer-service/cc-rest-customer-service.iml" filepath="$PROJECT_DIR$/cc-rest-customer-service/cc-rest-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver/cc-rest-deliver (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver/cc-rest-deliver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-deliver/cc-rest-deliver (2).iml" filepath="$PROJECT_DIR$/cc-rest-deliver/cc-rest-deliver (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver-backend/cc-rest-deliver-backend (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver-backend/cc-rest-deliver-backend (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-deliver-backend/cc-rest-deliver-backend (2).iml" filepath="$PROJECT_DIR$/cc-rest-deliver-backend/cc-rest-deliver-backend (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-demo/cc-rest-demo.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-demo/cc-rest-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-distribution/cc-rest-distribution.iml" filepath="$PROJECT_DIR$/cc-rest-distribution/cc-rest-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-global-backend/cc-rest-global-backend (1).iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-global-backend/cc-rest-global-backend (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-global-backend/cc-rest-global-backend (2).iml" filepath="$PROJECT_DIR$/cc-rest-global-backend/cc-rest-global-backend (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-oss/cc-rest-oss.iml" filepath="$PROJECT_DIR$/cc-rest-oss/cc-rest-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-pay/cc-rest-pay.iml" filepath="$PROJECT_DIR$/cc-rest-pay/cc-rest-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-push/cc-rest-push.iml" filepath="$PROJECT_DIR$/cc-rest-push/cc-rest-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-rocketmq/cc-rest-rocketmq.iml" filepath="$PROJECT_DIR$/cc-rest-rocketmq/cc-rest-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-search/cc-rest-search.iml" filepath="$PROJECT_DIR$/cc-rest-search/cc-rest-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-rest-seller/cc-rest-seller.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-rest-seller/cc-rest-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-seller/cc-rest-seller (1).iml" filepath="$PROJECT_DIR$/cc-rest-seller/cc-rest-seller (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rest-sms/cc-rest-sms.iml" filepath="$PROJECT_DIR$/cc-rest-sms/cc-rest-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rocketmq-consumer/cc-rocketmq-consumer.iml" filepath="$PROJECT_DIR$/cc-rocketmq-consumer/cc-rocketmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-root.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-rsync-elasticsearch/cc-rsync-elasticsearch.iml" filepath="$PROJECT_DIR$/cc-rsync-elasticsearch/cc-rsync-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-scheduler/cc-scheduler.iml" filepath="$PROJECT_DIR$/cc-scheduler/cc-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-platform-bak/cc-tools/cc-tools.iml" filepath="$PROJECT_DIR$/cc-platform-bak/cc-tools/cc-tools.iml" />
+    </modules>
+  </component>
+</project>

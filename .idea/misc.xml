@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cc-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-enums/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-aliyun-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-aliyun-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-aliyun-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-http/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/cc-rest-core/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-enums/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-generalmapper/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-deliver-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-global-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-rest-seller/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/cc-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-platform-bak/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-deliver/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-deliver-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-distribution/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-global-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-push/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-search/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-seller/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rest-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-rsync-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/cc-scheduler/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

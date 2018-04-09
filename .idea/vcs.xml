@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cc-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-entity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-enums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-platform-bak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-customer-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-deliver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-deliver-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-distribution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-global-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-oss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-pay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-push" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-rocketmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-seller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rest-sms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rocketmq-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-rsync-elasticsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-scheduler" vcs="Git" />
+  </component>
+</project>
